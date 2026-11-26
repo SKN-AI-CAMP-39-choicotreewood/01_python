@@ -5,6 +5,6 @@ first_time = int(input())
 second_time = int(input())
 # 2) 두 시간을 합한 결과를 만들 자리를 채워 보세요.
 # TODO: 두 활동 시간의 합을 계산하세요.
-result = 0
+result = first_time + second_time
 # 3) 계산한 결과를 출력해 보세요.
 print(result)
